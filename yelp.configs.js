@@ -1,0 +1,3 @@
+var YELP_API_KEY = 'Csm1MNa9zFQ4E2ZOi6Qi2Esp2gTNfjSx65J7BLje5V65YWmwdMoRVa1evyjOPVDF_asf6KYEiSRTxidUuXrcv5XTJMYITs1CqghHrehnZJe_GnPL5-uIhbm7CF1cXnYx'
+
+module.exports = YELP_API_KEY;

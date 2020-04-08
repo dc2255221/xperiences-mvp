@@ -1,6 +1,4 @@
-# Project Name
-
-> Project description
+# Yelp MVP
 
 ## Related Projects
 
